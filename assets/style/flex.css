@@ -1,0 +1,7 @@
+.menu {
+  display: flex; /* mudando para flex */
+  justify-content: space-evenly; /* espaçamento uniforme */
+  align-items: center; /* alinhando ao centro */
+  flex-wrap: wrap; /* quebrar linha */
+  column-gap: 3em; /* ajuste responsivo para telas menores */
+}
